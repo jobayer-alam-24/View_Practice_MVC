@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "View_Practice_MVC/1.0.0": {
+        "runtime": {
+          "View_Practice_MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "View_Practice_MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
